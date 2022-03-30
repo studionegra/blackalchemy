@@ -1,0 +1,71 @@
+{
+    "name": "PlayerInputActions",
+    "maps": [
+        {
+            "name": "Behind the Scenes",
+            "id": "03d5c79e-64b6-4b95-9d37-7597008b6bad",
+            "actions": [
+                {
+                    "name": "Change Skybox",
+                    "type": "Button",
+                    "id": "96146c3d-9913-49e1-9740-c71b15e6437a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Restart Song",
+                    "type": "Button",
+                    "id": "eac23ed0-c4f2-4c8a-957c-fb7249b1caf9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Restart Avatars",
+                    "type": "Button",
+                    "id": "545bb5ba-fcc8-4b39-ab0b-93a8dae075a6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "026e63f0-aeb6-4c9a-b803-fd97635d897c",
+                    "path": "<Keyboard>/b",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Change Skybox",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ba2a8b2c-e16b-4809-9a70-fdbe3514342e",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Restart Song",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "92d0a9b4-704b-449d-a474-0ed08d20b1c3",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Restart Avatars",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
