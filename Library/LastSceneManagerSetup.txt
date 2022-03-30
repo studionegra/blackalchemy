@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/b l a c k a l c h e m y  v 1.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
