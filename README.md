@@ -24,3 +24,6 @@ Phase II introduces the poetry and linguistic work of Black femmes throughout  h
 
 Phase III is the culminating VR experience, archiving the poetry and audible works of Black women, through auto-generated visuals and choreographed movement.  
 
+_______
+
+Anetha, please place these files into a folder called 'blackalchemy' to run in Unity.
