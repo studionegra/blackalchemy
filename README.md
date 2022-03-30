@@ -20,7 +20,7 @@ Phase I focuses on the mapping of Black sentiment to choreographed movement usin
 
 Phase II introduces the poetry and linguistic work of Black femmes throughout  history. Expanding on the work of Phase I, sentiment analysis will detect the emotion of various poetry to create a body of movement 
 
-**P H A S E I I I **
+**P H A S E I I I**
 a seemingly magical process of transformation, creation, or combination 
 
 Phase III is the culminating VR experience, archiving the poetry and audible works of Black women, through auto-generated visuals and choreographed movement.  
