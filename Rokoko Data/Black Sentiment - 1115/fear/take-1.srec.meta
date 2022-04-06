@@ -1,0 +1,314 @@
+object
+Fullname:Rokoko.Studio.RecMetaFile, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+list:regions
+endlist
+list:filters
+object
+Fullname:Rokoko.Smartsuit.Studio.Filters.GaitPhaseLockFilter, FiltersAssembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:UseKeys:True
+field:actorName:URY
+field:active:True
+field:removed:False
+list:curves
+object
+Fullname:StudioCurve, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+list:keys
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.06688596
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.1052632
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.183114
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.2171053
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.2390351
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.2960526
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.3432018
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.4232456
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.4824561
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.5296053
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.5866228
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.6447368
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.6798246
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.7094298
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.7675439
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.8157895
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.8739035
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.9309211
+field:value:1
+endobject
+endlist
+field:wholeKeys:True
+struct:color
+object
+Fullname:UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:r:0.2392157
+field:g:0.8235294
+field:b:0.427451
+field:a:1
+endobject
+endstruct
+endobject
+object
+Fullname:StudioCurve, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+list:keys
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.1195175
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.1557018
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.2105263
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.245614
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.3004386
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.4013158
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.439693
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.4923246
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.5317982
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.5767544
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.6173246
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.6655702
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.7565789
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.7828947
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.8223684
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.8475877
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.866228
+field:value:0
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0.9758772
+field:value:1
+endobject
+endlist
+field:wholeKeys:True
+struct:color
+object
+Fullname:UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:r:0.2392157
+field:g:0.427451
+field:b:0.8235294
+field:a:1
+endobject
+endstruct
+endobject
+endlist
+field:order:0
+endobject
+object
+Fullname:Rokoko.Smartsuit.Studio.Filters.Locomotion2Filter, FiltersAssembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:ShowDebug:False
+field:PostSmooth:True
+field:SnapSpacing:100
+field:vpWeight:1
+field:actorName:URY
+field:active:True
+field:removed:False
+list:curves
+object
+Fullname:StudioCurve, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+list:keys
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:1
+field:value:1
+endobject
+endlist
+field:wholeKeys:False
+struct:color
+object
+Fullname:UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:r:1
+field:g:0.6470588
+field:b:0
+field:a:1
+endobject
+endstruct
+endobject
+endlist
+field:order:0
+endobject
+object
+Fullname:ToeFilter, FiltersAssembly, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:KeepFeetAboveGround:False
+field:actorName:URY
+field:active:True
+field:removed:False
+list:curves
+object
+Fullname:StudioCurve, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+list:keys
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:0
+field:value:1
+endobject
+object
+Fullname:BezierFrame, RootAssemblyDefinition, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:time:1
+field:value:1
+endobject
+endlist
+field:wholeKeys:False
+struct:color
+object
+Fullname:UnityEngine.Color, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+field:r:0.827451
+field:g:0.7921569
+field:b:0.3215686
+field:a:1
+endobject
+endstruct
+endobject
+endlist
+field:order:0
+endobject
+endlist
+list:bodyModels
+endlist
+field:hasVirtualProduction:False
+field:hasVideoReference:False
+endobject
